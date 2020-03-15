@@ -22,6 +22,11 @@ footer {
   position: relative;
 }
 
+#register {
+  padding: 1em;
+  margin: 10px;
+}
+
 .where-am-i {
   border: 1px solid red;
 }
